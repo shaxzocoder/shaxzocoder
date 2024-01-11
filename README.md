@@ -7,9 +7,7 @@
 ###
 
 <div align="left">
-  <a href="https://open.spotify.com/user/31io7mwfezvrl3k2ho2wzouixsfa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31io7mwfezvrl3k2ho2wzouixsfa&count=4" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaxzocoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -28,12 +26,14 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaxzocoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 ###
-
+<div align="left">
+  <a href="https://open.spotify.com/user/31io7mwfezvrl3k2ho2wzouixsfa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31io7mwfezvrl3k2ho2wzouixsfa&count=4" alt="Spotify recently played"  />
+  </a>
+</div>
 <img align="left" src="https://profile-counter.glitch.me/shaxzocoder/count.svg?"  />
 
 ###
