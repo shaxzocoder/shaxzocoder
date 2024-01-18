@@ -37,6 +37,8 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31io7mwfezvrl3k2ho2wzouixsfa&count=4" alt="Spotify recently played"  />
   </a>
 </div>
+
+## Counted! just for fun!
 <img align="left" src="https://profile-counter.glitch.me/shaxzocoder/count.svg?"  />
 
 ###
