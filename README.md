@@ -11,15 +11,11 @@
 </div>
 <br/>
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shaxzocoder&theme=dark)](https://git.io/streak-stats)
-
-###
-
 <div align="left">
   <a href="https://twitter.com/shaxzod_e" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/shaxzod5_/" target="_blank">
+  <a href="https://www.instagram.com/shaxzodd_e/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://t.me/shaxzoud" target="_blank">
